@@ -10,7 +10,7 @@ namespace TestGitProject
             return x + y + z;
         }
 
-        public static void Main()
+        static void Main(string[] args)
         {
             Console.WriteLine(AdditionOfThrees(4, 5, 777789));
         }
