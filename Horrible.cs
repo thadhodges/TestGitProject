@@ -1,0 +1,6 @@
+﻿namespace TestGitProject
+{
+    class Horrible
+    {
+    }
+}
